@@ -119,9 +119,9 @@
 • Fəlsəfənin predmetinin tədqiqat obyekti insanların mənəvi tərbiyəsini əhatə edir.
 • Fəlsəfə yalnız təfəkkürün inkişaf qanunlarını öyrənir.
 21.Qədim Şərqin incisi sayılan və dörd dildə yazılan əsər?
-√ “Avesta”
+• “Avesta”
 • “Ağanın qul ilə söybəti”
-• “Bilqamıs haqqında dastan”
+√ “Bilqamıs haqqında dastan”
 • “İsida və Osiris haqqında”
 • “Ölümün tərənnümü”
 22.Elmlər bir-birindən öyrəndikləri nəyə görə fərqlənir?
@@ -486,8 +486,8 @@
 • Parmenid, Demoktit, Aristotel.
 82.Antik Yunanıstanda Likey məktəbini kim yaratmışdır?
 • Demokrit.       
-√ Platon.        
-• Aristotel.       
+• Platon.        
+√ Aristotel.       
 • Prataqor.       
 • Pifaqor.
 83.İdealizmin  mahiyyəti nədir?
@@ -1797,3 +1797,4 @@
 • Regional, bəşəri, tarixi.
 • Dünyəvi, milli, bəşəri.
 • Şərq, Qərb, Cənub.
+
