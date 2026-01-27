@@ -59,8 +59,8 @@
 • Bəşəri mənəvi mədəniyyətin ən qədim forması qoşmalar və nağıllardır.
 √ Bəşəri mənəvi mədəniyyətin ən qədim forması mifologiyadır.
 11.Dini dünyagörüşün anlaşılmasının əsasında nə durur? 
-√ Dini dünyagörüşün anlaşılmasının əsasında təbiət hadisələrinin ikiləşdirilməsi prinsipi durur.
-• Dini dünyagörüşün anlaşılmasının əsasında dünyanın ikiləşdirilməsi prinsipi durur.
+• Dini dünyagörüşün anlaşılmasının əsasında təbiət hadisələrinin ikiləşdirilməsi prinsipi durur.
+√ Dini dünyagörüşün anlaşılmasının əsasında dünyanın ikiləşdirilməsi prinsipi durur.
 • Dini dünyagörüşün anlaşılmasının əsasını cənnət haqqında təlim təşkil edir.
 • Dini dünyagörüşün anlaşılmasının əsasını axirət dünyasına inam təşkil edir.
 • Dini dünyagörüşün anlaşılmasının əsasını dünya və həyat haqqında mif və dinlə sıx əlaqə təşkil edir.
@@ -744,9 +744,9 @@
 √ Mexaniki, fiziki, kimyəvi, bioloji, sosial. 
 125.Fəlsəfi materializmin mahiyyətini səciyyələndirən doğru müddəanı qeyd edin:
 • Materializm şüur tərəfindən yaradılmış ətraf aləmin obyektivliyini qəbul edilməsidir. 
-√ Materializmin bütün predmetlərinin eyni hissəciklərdən – atomlardan, elektronlardan, protonlardan və s. ibarət olmasını qəbul etməkdir. 
+• Materializmin bütün predmetlərinin eyni hissəciklərdən – atomlardan, elektronlardan, protonlardan və s. ibarət olmasını qəbul etməkdir. 
 • Materializm insan həyatı üçün maddi nemətlərin birinciliyinin qəbul edilməsindən ibarət olan həyat prinsipidir. 
-• Materializm materiyanın birinciliyinin və şüurun ikinciliyinin qəbul edilməsidir. 
+√ Materializm materiyanın birinciliyinin və şüurun ikinciliyinin qəbul edilməsidir. 
 • Materializm ilkin və dəyişməz maddi substansiyanın qəbul edilməsidir. 
 126.Varlığın formaları hansılardır? 
 √ təbii və ya maddi varlıq; mənəvi varlıq; sosial varlıq; insanın varlığı.  
@@ -1797,5 +1797,6 @@
 • Regional, bəşəri, tarixi.
 • Dünyəvi, milli, bəşəri.
 • Şərq, Qərb, Cənub.
+
 
 
