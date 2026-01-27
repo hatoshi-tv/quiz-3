@@ -1169,11 +1169,11 @@
 • Üçüncünü istisna, əksliklərin vəhdəti və mübarizəsi, kəmiyyətin keyfiyyətə keçməsi. 
 • Üçüncünü istisna, əksliklərin vəhdəti və münasibəti, kəmiyyətin keyfiyyətə keçməsi. 
 196.Subyektiv dialektika anlayışının mahiyyəti: 
-√ Subyektiv dialektika dialektikanın qanun və kateqoriyalarının subyekt, insan tərəfindən fərdi və ictimai şüurda əks olunmasıdır.
+• Subyektiv dialektika dialektikanın qanun və kateqoriyalarının subyekt, insan tərəfindən fərdi və ictimai şüurda əks olunmasıdır.
 • Subyektiv dialektika metofizik dialektikanın subyekt, insan, bəşəriyyət tərəfindən fərdi və ictimai şüurda əks olunmasıdır.
 • Subyektiv dialektika sensualist dialektikanın subyekt, insan, bəşəriyyət tərəfindən fərdi və ictimai şüurda əks olunmasıdır.
 • Subyektiv dialektika insan, toplum və bütövlükdə bəşəriyyətin fərdi və ictimai şüurunun ifadəsidir.	 
-• Subyektiv dialektika obyektiv dialektikanın subyekt, insan, bəşəriyyət tərəfindən fərdi və ictimai şüurda əks olunmasıdır.
+√ Subyektiv dialektika obyektiv dialektikanın subyekt, insan, bəşəriyyət tərəfindən fərdi və ictimai şüurda əks olunmasıdır.
 197.Qanun haqqında aşağıdakı təriflərdən hansı düzdür? 
 • Qanun predmet və hadisələr arasındakı obyektiv, ümumi, mühüm, zəruri, nisbi, qeyri-sabit və təkrarlanan, müəyyən şərait daxilində həmişə hadisənin inkişaf istiqamətini müəyyən edən fəlsəfi kateqoriyalardır.	 
 • Qanun predmet və hadisələr arasındakı qeyri-obyektiv, ümumi, mühüm, zəruri, nisbi, sabit və təkrarlanan, müəyyən şərait daxilində həmişə hadisənin inkişaf istiqamətini müəyyən edən fəlsəfi kateqoriyalardır. 	 
@@ -1797,4 +1797,5 @@
 • Regional, bəşəri, tarixi.
 • Dünyəvi, milli, bəşəri.
 • Şərq, Qərb, Cənub.
+
 
